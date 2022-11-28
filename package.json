@@ -1,0 +1,28 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "first attempt of a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing-bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariadlRosa-1224/Discord-bot-test.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "javascript"
+  ],
+  "author": "Maria De la Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariadlRosa-1224/Discord-bot-test/issues"
+  },
+  "homepage": "https://github.com/MariadlRosa-1224/Discord-bot-test#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
